@@ -9,7 +9,7 @@ This course delivers the fundamentals of well-formed, semantic HTML markup and C
 https://www.codecademy.com/catalog/language/html-css
 
 # Images
-![Web Design Preview](webdesign.jpg)
+![Web Design Preview](Webdesign.jpeg)
 
 > **Note**: This course emphasizes creating accessible, responsive, and SEO-friendly designs. Following best practices in semantic HTML and CSS will be essential to successful web development.
 
